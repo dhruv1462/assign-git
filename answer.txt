@@ -10,5 +10,5 @@ Why should you have different branches?
 Multiple branch helps each developer to isolate their own work and it helps to keep track of individual commits. 
 
 In a project how many remote Git repositories do you usually have?
-You can have more than one remote Git repositories.
+You can have more than one remote Git repositories. But in single project there is only one remote origin.
 
