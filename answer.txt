@@ -1,7 +1,13 @@
 What is a gitignore file and what should it include for a Java project?
+Gitigone file is in the repository that contains files and directories 
+to ignore so that they doesnt appear in remote repository. For java project it should include log files, 
+bluej files, mobile tools for java, package files and virtual machine crash logs.
 
 What does fast-forward in Git mean?
+In Git, fast forward means when you update branch that is ahead of your checked-out one. 
 
 Why should you have different branches?
+Multiple branch helps each developer to isolate their own work and it helps to keep track of individual commits. 
 
 In a project how many remote Git repositories do you usually have?
+You can have more than one remote Git repositories.
